@@ -1,0 +1,18 @@
+{
+  "name": "Test service 1",
+  "uri": "/test/service1",
+  "method": "GET",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/json;charset=UTF-8"
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "application=mobile"
+    }
+
+  ],
+  "body": "{\"name\": \"Test Service 1\", \"status\": 1}"
+
+}
